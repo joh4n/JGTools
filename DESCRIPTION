@@ -1,0 +1,11 @@
+Package: JGTools
+Title: Utility tools for Johan by Johan
+Version: 0.0.0.9000
+Authors@R: person("Johan", "Gudmundsson", , "jgu@blackwoodseven.com", role = c("aut", "cre"))
+Description: Utility functions
+Depends:
+    R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
